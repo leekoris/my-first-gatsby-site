@@ -52,3 +52,16 @@
 Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
 
 [<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal)
+
+
+## Gatsby와 JS(REACT)를 통한 블로그 운용
+
+* Tutorial 따라해보기 (완료)
+
+* ( 계획) 웹폰트 적용 , CSS 스타일링 변경
+
+* (계획) 웹을 통한 게시물 포스트 기능 추가
+
+* (미정)  익명 댓글 기능 추가 
+
+* (미정) 블로그를 나에게 맞게 작성하기
